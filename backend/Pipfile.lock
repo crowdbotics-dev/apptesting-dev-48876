@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f609ebde351b1a8653412bccd7ce8acfda72942907a64ac19a06b6ffecbc3511"
+            "sha256": "efa3a0b34ee7b64ac15d343dde89a960de5ee99bdea468bbd2b3112b331d8e13"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -63,10 +63,6 @@
         "cb-django-push-notifications": {
             "editable": true,
             "path": "./modules/django_push_notifications"
-        },
-        "cb-django-social-auth": {
-            "editable": true,
-            "path": "./modules/django_social_auth"
         },
         "certifi": {
             "hashes": [
