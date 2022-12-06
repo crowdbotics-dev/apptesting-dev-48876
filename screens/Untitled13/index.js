@@ -1,9 +1,10 @@
+import { Pressable } from "react-native";
 import React from "react";
 import { View, StyleSheet } from "react-native";
 
 const Untitled13 = () => {
   return <View style={styles.container}>
-      <View style={styles.row1}></View>
+      <Pressable onPress={{}}><View style={styles.row1}><Pressable onPress={{}}><View style={styles.DzpRzkeg}></View></Pressable></View></Pressable>
       <View style={styles.row2}></View>
       <View style={styles.row3}></View>
     </View>;
@@ -25,6 +26,13 @@ const styles = StyleSheet.create({
   },
   row3: {
     flex: 1
+  },
+  DzpRzkeg: {
+    height: 60,
+    width: 140,
+    backgroundColor: "#E4E4E4",
+    borderRadius: 0,
+    color: "#777777"
   }
 });
 export default Untitled13;
