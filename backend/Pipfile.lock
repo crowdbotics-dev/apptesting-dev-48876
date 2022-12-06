@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e8af0a2159e522cde8284ef92b77cce0e8a8f444f4c7d4fba262779bdd262b44"
+            "sha256": "1692e5a7f058a0e7f8b488051e2b6a712dac08ad7cedc03db9594bf200f358e3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -55,10 +55,6 @@
             ],
             "markers": "python_version ~= '3.7'",
             "version": "==5.2.0"
-        },
-        "cb-django-push-notifications": {
-            "editable": true,
-            "path": "./modules/django_push_notifications"
         },
         "certifi": {
             "hashes": [
