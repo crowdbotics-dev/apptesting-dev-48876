@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "52088c71297d635621570fb1324cc58ba71c249f1e96ec1fe39b1a4a26a05e3f"
+            "sha256": "1692e5a7f058a0e7f8b488051e2b6a712dac08ad7cedc03db9594bf200f358e3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -34,19 +34,19 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:b466dd6e7b71babf145ae8c55b541bbcf5828df49ca022edb24657ae0b861e87",
-                "sha256:f478dde5a7e600e222c406bbf6cd2927371822d2b95a931c3ccb69eed18af83a"
+                "sha256:6531198b9d4cd86a1945eaffb2c5d8d75c5447b72870ad2b07c411ea75d6e59c",
+                "sha256:f6117707d140363c58ffe41495400cc88c35c165e0f711c6b62edadbd6f600b5"
             ],
             "index": "pypi",
-            "version": "==1.26.23"
+            "version": "==1.26.24"
         },
         "botocore": {
             "hashes": [
-                "sha256:216400fa6736a335f5b5c643655cc7d69d0bf996eb4d21069373aa5aa84b5c10",
-                "sha256:5ad03b4bedb5587fc75c7ecd29bf3477929791748cb533c8c57ab5289da84ac3"
+                "sha256:4f9c92979b29132185f645f61bdf0fecf031ecc26a8dd1a99dbd88d323211325",
+                "sha256:fb37c63d5e2b7c778f52d096c6c54207d49143cd942b4dc19297086a1385a7cd"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.29.23"
+            "version": "==1.29.24"
         },
         "cachetools": {
             "hashes": [
@@ -55,10 +55,6 @@
             ],
             "markers": "python_version ~= '3.7'",
             "version": "==5.2.0"
-        },
-        "cb-django-articles": {
-            "editable": true,
-            "path": "./modules/django_articles"
         },
         "certifi": {
             "hashes": [
@@ -676,11 +672,11 @@
         },
         "platformdirs": {
             "hashes": [
-                "sha256:1006647646d80f16130f052404c6b901e80ee4ed6bef6792e1f238a8969106f7",
-                "sha256:af0276409f9a02373d540bf8480021a048711d572745aef4b7842dad245eba10"
+                "sha256:1a89a12377800c81983db6be069ec068eee989748799b946cce2a6e80dcc54ca",
+                "sha256:b46ffafa316e6b83b47489d240ce17173f123a9b9c83282141c3daf26ad9ac2e"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.5.4"
+            "version": "==2.6.0"
         },
         "pluggy": {
             "hashes": [
